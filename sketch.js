@@ -7,4 +7,5 @@ function draw() {
 	rect(mouseX + 1, mouseY, 20);
 
 	circle(200, 200, 50);
+	pint();
 }
