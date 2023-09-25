@@ -1,7 +1,7 @@
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+	createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
-  circle(mouseX, mouseY, 20);
+	rect(mouseX, mouseY, 20);
 }
